@@ -52,11 +52,11 @@ O sistema controla pacientes, médicos, especialidades, consultas, exames e os e
 
 | Integrante | Parte |
 |---|---|
-| Lucas | Parte 1 — Apresentação do problema e domínio |
-| Ana | Parte 2 — DER (diagrama e relacionamentos) |
+| Raquel | Parte 1 — Apresentação do problema e domínio |
+| Clara | Parte 2 — DER (diagrama e relacionamentos) |
 | Oderlan | Parte 3 — MER (modelo lógico e normalização) |
 | Edilberto | Parte 4 — DDL (criação do banco) |
 | Ícaro | Parte 5 — Populate + Consultas 1 e 2 |
-| Clara | Parte 6 — Consultas 3, 4 e 5 + análise final |
+| Lucas | Parte 6 — Consultas 3, 4 e 5 + análise final |
 
 > Detalhes do que cada um deve apresentar estão no arquivo `divisao.md`.
