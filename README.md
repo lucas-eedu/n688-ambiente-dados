@@ -48,25 +48,6 @@ O sistema controla pacientes, médicos, especialidades, consultas, exames e os e
 
 ---
 
-## ▶️ Como executar
-
-Pré-requisito: MySQL 8+ instalado.
-
-```bash
-# 1. Criar o banco e as tabelas
-mysql -u root -p < sql/01_schema.sql
-
-# 2. Inserir os dados de exemplo
-mysql -u root -p < sql/02_populate.sql
-
-# 3. Conectar ao banco para testar as consultas
-mysql -u root -p clinica_db
-```
-
-As consultas prontas estão em `consultas/consultas.md`.
-
----
-
 ## 👥 Integrantes e divisão do vídeo
 
 | Integrante | Parte |
